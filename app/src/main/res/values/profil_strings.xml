@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profil_name">Dennis Nilsson</string>
+    <string name="profil_age">Ålder: 26 år</string>
+    <string name="profil_living" >Ort: Sundbyberg, Stockholm</string>
+    <string name="profil_occupation">Sysselsättning: Student, KYH</string>
+    <string name="profil_presentation">Tillämpad barnskötare med 5 års erfarenhet från förskola.
+        Sedan december 2021 har jag innehaft rollen som avdelningsansvarig. Jag älskar att anta nya
+        utmaningar och strävar alltid efter personlig och professionell utveckling. Jag är en
+        analytisk och lösningsorienterad person. Efter att ha arbetat i fem år med barn har jag
+        fått en bred erfarenhet inom mitt yrkesområde. Jag anser att mina styrkor inkluderar min
+        förmåga att interagera effektivt med olika individer och att skapa starka förtroendefulla
+        relationer. Jag har även en förmåga att bibehålla lugn i situationer som kan vara utmanande.
+        Under min tid som avdelningsansvarig har jag även samlat erfarenhet inom verksamhetsledning,
+        fördelning av arbetsuppgifter med effektivitet, och att samtidigt skapa en utvecklande miljö
+        för både barn och kollegor. Jag har även ansvarat för dokumentation och utvärderingar."
+    </string>
+    
+</resources>
